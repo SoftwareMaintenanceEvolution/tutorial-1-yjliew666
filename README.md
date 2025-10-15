@@ -1,9 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LQr4ft17)
 # Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
+Hi! I'm Liew Yan Jun, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
+<img src = "https://github.com/SoftwareMaintenanceEvolution/tutorial-1-yjliew666/blob/46ccb32b18cbad7195b16eb1b8246945bcfd9118/picture.jpg" width="200" />
 
 ![My Image](picture.jpg)  <!-- https://github.com/SoftwareMaintenanceEvolution/tutorial-1-yjliew666/blob/46ccb32b18cbad7195b16eb1b8246945bcfd9118/picture.jpg -->
+
 
 ## GitHub Profile
 
