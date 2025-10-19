@@ -3,12 +3,10 @@
 Hi! I'm Liew Yan Jun, a student in the Framework-Based Software Design and Development course. 
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-<img src = "https://github.com/SoftwareMaintenanceEvolution/tutorial-1-yjliew666/blob/46ccb32b18cbad7195b16eb1b8246945bcfd9118/picture.jpg" width="200" />
-
 ![My Image](picture.jpg)  <!-- https://github.com/SoftwareMaintenanceEvolution/tutorial-1-yjliew666/blob/46ccb32b18cbad7195b16eb1b8246945bcfd9118/picture.jpg -->
 
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [[Link to github profile](https://github.com/yjliew666/yjliew666.git)]
+You can view my personalized GitHub profile here[[Link to github profile](https://github.com/yjliew666/yjliew666.git)]
 
