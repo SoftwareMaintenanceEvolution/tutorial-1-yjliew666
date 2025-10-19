@@ -4,7 +4,7 @@ Hi! I'm Liew Yan Jun, a student in the Framework-Based Software Design and Devel
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
 - **Fun fact**: I love cats 🐈
-- **Course expectations**: To gain hands-on experience in maintaining and evolving software & learn about modern tools and frameworks
+- **Course expectations**: To gain hands-on experience in maintaining and evolving software & learn about modern tools and frameworks.
 
 ![My Image](picture.jpg)
 
