@@ -8,5 +8,5 @@ I expect to learn a lot about modern software maintenance practices and how to w
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here(https://github.com/yjliew666/yjliew666.git)]
+You can view my personalized GitHub profile [[here](https://github.com/yjliew666/yjliew666.git)]
 
