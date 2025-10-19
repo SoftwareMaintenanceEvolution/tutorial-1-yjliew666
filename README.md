@@ -6,7 +6,7 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - **Fun fact**: I love cats 🐈
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software & learn about modern tools and frameworks
 
-![My Image](picture.jpg)  <!-- https://github.com/SoftwareMaintenanceEvolution/tutorial-1-yjliew666/blob/46ccb32b18cbad7195b16eb1b8246945bcfd9118/picture.jpg -->
+![My Image](picture.jpg)
 
 
 ## GitHub Profile
